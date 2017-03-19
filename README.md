@@ -13,3 +13,5 @@ Now click Browse Packages.
 Create a new folder called <code>Themes</code>.
 <br>
 Drag the file <code>Adjust.tmTheme</code> from the downloaded folder into the new <code>Themes</code> Folder.
+<h2>Activate Theme</h2>
+<button>hi</button>
