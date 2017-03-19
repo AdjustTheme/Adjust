@@ -9,6 +9,5 @@ Enter Sublime text and Follow this image:
 Now click Browse Packages.
 Create a new folder called Themes.
 <br>
-<img src="assets/Screen%20shot%202017-03-19%20at%2020.59.11.jpg">
 <br>
 Drag the file ```Adjust.tmTheme``` from the downloaded folder into the new ```Themes``` Folder.
