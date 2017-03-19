@@ -6,8 +6,7 @@ Enter Sublime text and Follow this image:
 <br>
 <img src="assets/Screen%20shot%202017-03-19%20at%2020.56.57.jpg">
 <br>
-## Installation
-Now click ```Browse Packages```.
+Now click Browse Packages.
 Create a new folder called ```Themes```.
 <br>
 <img src="assets/Screen%20shot%202017-03-19%20at%2020.59.11.jpg">
