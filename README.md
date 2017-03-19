@@ -8,15 +8,6 @@ Enter Sublime text and Follow this image:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 Now click Browse Packages.
 Create a new folder called Themes.
 <br>
